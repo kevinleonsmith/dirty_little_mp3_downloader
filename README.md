@@ -1,2 +1,2 @@
-# rock_paper_scissors_game
-Rock Paper Scissors game in python
+# dirty little mp3 downloader
+Mp3 downloader in python
